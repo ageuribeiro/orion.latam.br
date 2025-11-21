@@ -193,12 +193,3 @@ Este projeto é licenciado sob a licença **MIT**. Use livremente.
 Criado com o objetivo de fornecer um **padrão global acessível e profissional** para Python.
 
 ---
-
-Se quiser, posso agora gerar:
-
-* o **script PowerShell para criar este template automaticamente**;
-* o **template ZIP**;
-* o **cookiecutter**;
-* ou a **página inicial do repositório GitHub**.
-
-Só dizer: *"Vamos para o próximo passo"*.
