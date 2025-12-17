@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D309EB98-F810-4AD0-8E65-3C857E7D82E9}|Cadastro.Orchestrator.Console\\Cadastro.Orchestrator.Console.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.orchestrator.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D309EB98-F810-4AD0-8E65-3C857E7D82E9}|Cadastro.Orchestrator.Console\\Cadastro.Orchestrator.Console.csproj|solutionrelative:cadastro.orchestrator.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.systems\\produtos\\cadastroprodutossystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|solutionrelative:cadastro.systems\\produtos\\cadastroprodutossystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.systems\\clientes\\cadastroclientessystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|solutionrelative:cadastro.systems\\clientes\\cadastroclientessystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.core\\services\\cadastrobaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|solutionrelative:cadastro.core\\services\\cadastrobaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.core\\ports\\icadastrosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|solutionrelative:cadastro.core\\ports\\icadastrosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.core\\entities\\cadastrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|solutionrelative:cadastro.core\\entities\\cadastrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.systems\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A25198-DADC-41F7-BE42-39DF4BC29AF1}|Cadastro.Systems\\Cadastro.Systems.csproj|solutionrelative:cadastro.systems\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|c:\\users\\ageu lima ribeiro\\source\\repos\\orion.latam.br\\cadastro.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671A9EC5-9E30-4206-A2D1-775F411701BA}|Cadastro.Core\\Cadastro.Core.csproj|solutionrelative:cadastro.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Services\\CadastroBaseService.cs",
+              "RelativeDocumentMoniker": "Cadastro.Core\\Services\\CadastroBaseService.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Services\\CadastroBaseService.cs",
+              "RelativeToolTip": "Cadastro.Core\\Services\\CadastroBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:59:26.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICadastroSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Ports\\ICadastroSystem.cs",
+              "RelativeDocumentMoniker": "Cadastro.Core\\Ports\\ICadastroSystem.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Ports\\ICadastroSystem.cs",
+              "RelativeToolTip": "Cadastro.Core\\Ports\\ICadastroSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:58:38.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastroContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Entities\\CadastroContext.cs",
+              "RelativeDocumentMoniker": "Cadastro.Core\\Entities\\CadastroContext.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Entities\\CadastroContext.cs",
+              "RelativeToolTip": "Cadastro.Core\\Entities\\CadastroContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:58:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroProdutosSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Produtos\\CadastroProdutosSystem.cs",
+              "RelativeDocumentMoniker": "Cadastro.Systems\\Produtos\\CadastroProdutosSystem.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Produtos\\CadastroProdutosSystem.cs",
+              "RelativeToolTip": "Cadastro.Systems\\Produtos\\CadastroProdutosSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:57:16.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroClientesSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Clientes\\CadastroClientesSystem.cs",
+              "RelativeDocumentMoniker": "Cadastro.Systems\\Clientes\\CadastroClientesSystem.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Clientes\\CadastroClientesSystem.cs",
+              "RelativeToolTip": "Cadastro.Systems\\Clientes\\CadastroClientesSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:56:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Class1.cs",
+              "RelativeDocumentMoniker": "Cadastro.Systems\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Systems\\Class1.cs",
+              "RelativeToolTip": "Cadastro.Systems\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:55:20.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Cadastro.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Core\\Class1.cs",
+              "RelativeToolTip": "Cadastro.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:54:54.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Orchestrator.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro.Orchestrator.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.Orchestrator.Console\\Program.cs",
+              "RelativeToolTip": "Cadastro.Orchestrator.Console\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:54:12.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
