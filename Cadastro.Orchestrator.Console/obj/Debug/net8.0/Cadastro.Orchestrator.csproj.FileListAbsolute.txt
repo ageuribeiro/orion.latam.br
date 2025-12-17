@@ -1,0 +1,6 @@
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.csproj.AssemblyReference.cache
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.AssemblyInfoInputs.cache
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.AssemblyInfo.cs
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\Ageu Lima Ribeiro\source\repos\orion.latam.br\Cadastro.Orchestrator.Console\obj\Debug\net8.0\Cadastro.Orchestrator.sourcelink.json
