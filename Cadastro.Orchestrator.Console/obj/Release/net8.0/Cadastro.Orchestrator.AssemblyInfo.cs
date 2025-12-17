@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro.Core")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro.Orchestrator")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2353e6c3a3202202e76bb81d2c2ad746788c335a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Cadastro.Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Cadastro.Core")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cadastro.Orchestrator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cadastro.Orchestrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
