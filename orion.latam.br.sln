@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Core", "Cadastro.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Systems", "Cadastro.Systems\Cadastro.Systems.csproj", "{58A25198-DADC-41F7-BE42-39DF4BC29AF1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cadastro.FlaskWeb", "Cadastro.FlaskWeb\Cadastro.FlaskWeb.pyproj", "{20DF0F11-670A-45DC-954F-BE91A22194F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{58A25198-DADC-41F7-BE42-39DF4BC29AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58A25198-DADC-41F7-BE42-39DF4BC29AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58A25198-DADC-41F7-BE42-39DF4BC29AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DF0F11-670A-45DC-954F-BE91A22194F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DF0F11-670A-45DC-954F-BE91A22194F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DF0F11-670A-45DC-954F-BE91A22194F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DF0F11-670A-45DC-954F-BE91A22194F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{20DF0F11-670A-45DC-954F-BE91A22194F8}|Cadastro.FlaskWeb\\Cadastro.FlaskWeb.pyproj|C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20DF0F11-670A-45DC-954F-BE91A22194F8}|Cadastro.FlaskWeb\\Cadastro.FlaskWeb.pyproj|solutionrelative:Cadastro.FlaskWeb\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DF0F11-670A-45DC-954F-BE91A22194F8}|Cadastro.FlaskWeb\\Cadastro.FlaskWeb.pyproj|C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20DF0F11-670A-45DC-954F-BE91A22194F8}|Cadastro.FlaskWeb\\Cadastro.FlaskWeb.pyproj|solutionrelative:Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T01:59:29.325Z",
+              "Title": "runserver.py",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\runserver.py",
+              "RelativeDocumentMoniker": "Cadastro.FlaskWeb\\runserver.py",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\runserver.py",
+              "RelativeToolTip": "Cadastro.FlaskWeb\\runserver.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-17T22:19:47.323Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py",
+              "RelativeDocumentMoniker": "Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py",
+              "ToolTip": "C:\\Users\\Ageu Lima Ribeiro\\source\\repos\\orion.latam.br\\Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py",
+              "RelativeToolTip": "Cadastro.FlaskWeb\\Cadastro.FlaskWeb\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-17T22:13:36.971Z"
             }
           ]
         }
