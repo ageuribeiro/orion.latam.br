@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar Novo Usuário</title>
+</head>
+<body>
+    <h1>Criar Usuário</h1>
+    <input type="text" id="username" placeholder="Usuário">
+    <input type="email" id="email" placeholder="Email">
+    <button onclick="createUser()">Criar Usuário</button>
+    
+    <script>
+        async function enviar(){
+            const dados = {
+                username: document.getElementById('username').value,
+                email: document.getElementById('email').value
+            };
+
+            const response = await fetch('/users', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(dados)
+            });
+            const  resultado = await response.json();
+            alert('Usuario criado com ID: ' + resultado.id);    
+        }
+    </script>
+</body>
+</html>
