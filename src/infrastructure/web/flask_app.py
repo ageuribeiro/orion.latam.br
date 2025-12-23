@@ -18,7 +18,7 @@ def home():
 def create_user():
     data = request.json
     new_user = create_user_use_case.execute(
-        usename=data['username'],
+        username=data['username'],
         email=data['email']
     )
     return jsonify({'id': new_user.id, 'username': new_user.username, 'email': new_user.email}), 201
