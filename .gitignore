@@ -1,0 +1,6 @@
+.vs/
+*.db
+*.log
+*.tmp
+*.suo
+DocumentLayout.json
